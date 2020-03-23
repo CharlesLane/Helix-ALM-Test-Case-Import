@@ -11,7 +11,7 @@ There is one variable required to get started. It is on line 5 of ConvertTC.py, 
 Within your Excel file, your tests should be in the following format:
 
 ### Column 1: Test Case Name
-This is a summary of the test case. Its name must be repeated exactly on each line.
+This is a summary of the test case. Its name must be repeated exactly on each line. A different test case name indicates to the script that it is a new test case record.
 
 ### Column 2: Steps
 This column contains the instructions for the tester to execute. Some lines may be blank, if you have multiple expected results as described in column 3.
